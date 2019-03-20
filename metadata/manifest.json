@@ -23,8 +23,8 @@
     }
   ],
   "aggregates": [
-    { "uri": "doi:10.5065/D6862DM8",
-    }
+    { "uri": "doi:10.5065/D6862DM8"
+    },
     {
       "uri": "../../workspace/requirements.txt"
     },
